@@ -1,0 +1,33 @@
+html, body {
+	background-color: #333333;
+	color: #E6E6E6;
+}
+
+#main > img {
+	max-height: 150pt;
+	margin: 0 auto;
+}
+.channel {
+	height: 30vh;
+	text-align: center;
+	background-color: #808000;
+	border: 1px solid black;
+	padding: 20pt;
+}
+.channel > div {
+	color: #00FF80;
+}
+#channelDescription {
+	padding: 20pt;
+}
+a {
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+#channelTopic {
+	color: white;
+	font-size: 140%;
+}
